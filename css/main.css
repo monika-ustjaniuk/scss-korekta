@@ -11497,7 +11497,6 @@ header.header-image .header-content .header-content-inner h5 {
 
 .t108-footer .footer-above .footer-col .contact, .t108-footer .footer-above .footer-col .tweets {
   padding-left: 0;
-  font-size: 25px;
 }
 
 .t108-footer .footer-above .footer-col .contact p, .t108-footer .footer-above .footer-col .tweets p {
@@ -11541,6 +11540,10 @@ header.header-image .header-content .header-content-inner h5 {
 
 .t108-footer p {
   color: #979797;
+}
+
+.t108-footer .footer-below .fa {
+  font-size: 25px;
 }
 
 /*-----  End of 4.0 - Layouts  ------*/
