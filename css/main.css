@@ -11243,7 +11243,7 @@ header.header-image .header-content .header-content-inner h5 {
 
 #main-slider .carousel-caption .btn-primary {
   margin-top: 48px;
-  font-size: 14px;
+  font-size: 22px;
   padding: 10px 12px;
 }
 
@@ -11303,7 +11303,7 @@ header.header-image .header-content .header-content-inner h5 {
   }
   #main-slider .carousel-caption .btn-primary {
     margin-top: 24px;
-    font-size: 14px;
+    font-size: 22px;
     padding: 10px 12px;
   }
   #main-slider .icon-prev, #main-slider .icon-next {
@@ -11798,8 +11798,8 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
 
 .t108-one-page #about .about-box .icon-about {
   color: #ffffff;
-  width: 64px;
-  height: 64px;
+  width: 96px;
+  height: 96px;
   border-radius: 100%;
   line-height: 64px;
   background-color: #a5e200;
