@@ -11801,7 +11801,7 @@ form fieldset input[name="comment"], form fieldset input[name="message"] {
   width: 96px;
   height: 96px;
   border-radius: 100%;
-  line-height: 64px;
+  line-height: 96px;
   background-color: #a5e200;
   margin: 0 auto 24px;
 }
